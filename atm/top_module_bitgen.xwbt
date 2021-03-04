@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\turke\Desktop\CS303\atm\top_module.ncd
+OUTFILE=C:\Users\turke\Desktop\CS303\atm\top_module.bit
+FAMILY=Spartan3E
+PART=xc3s100e-4tq144
+WORKINGDIR=C:\Users\turke\Desktop\CS303\atm
+LICENSE=WebPack
+USER_INFO=211816059_0_0_112

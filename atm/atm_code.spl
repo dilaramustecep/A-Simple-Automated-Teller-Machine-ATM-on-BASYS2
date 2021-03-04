@@ -1,0 +1,17 @@
+[Inputs]
+clk
+rst
+BTN3
+BTN2
+BTN1
+=SW[3:0]=
+[Outputs]
+=LED[7:0]=
+=digit4[6:0]=
+=digit3[6:0]=
+=digit2[6:0]=
+=digit1[6:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel atm_code
+

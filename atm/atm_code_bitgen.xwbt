@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Xilinx\atm\atm_code.ncd
+OUTFILE=C:\Xilinx\atm\atm_code.bit
+FAMILY=Spartan3E
+PART=xc3s100e-4tq144
+WORKINGDIR=C:\Xilinx\atm
+LICENSE=WebPack
+USER_INFO=211819207_0_0_637
